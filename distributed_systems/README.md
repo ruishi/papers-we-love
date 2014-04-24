@@ -6,6 +6,18 @@
 
 * [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
+* The Calvin papers:
+
+  * [The Case for Determinism in Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/determinism-vldb10.pdf)
+
+  * [Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf)
+
+  * [Modularity and Scalability in Calvin](http://sites.computer.org/debull/A13june/calvin1.pdf)
+
+  * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://www.cs.yale.edu/homes/dna/papers/calvin-sigmod12.pdf)
+
+  * [Lightweight Locking for Main Memory Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/vll-vldb13.pdf)
+
 * [Cassandra - A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
 
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
@@ -37,6 +49,8 @@
 * [MDCC: Multi-Data Center Consistency](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/mdcc-eurosys13.pdf)
 
 * [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41378.pdf)
+
+* [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf) 
 
 * [Optimistic replication](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/optimistic-survey.pdf)
 
